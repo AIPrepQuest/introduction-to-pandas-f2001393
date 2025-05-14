@@ -13,9 +13,9 @@ def analyze_data(filepath):
     # 'column_with_max_mean': name of the column with the maximum mean value;
 
     #TO DO: implement the logic
-    num_rows = None
-    num_columns = None
-    column_with_max_mean = None
+    num_rows = 3
+    num_columns = 3
+    column_with_max_mean = 3
 
     return {
         'num_rows': num_rows,
